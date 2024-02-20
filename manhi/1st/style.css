@@ -1,0 +1,25 @@
+
+.body
+{
+    background-color: rgb(197, 163, 218);
+}
+.form
+{
+    border-color: black;
+    background-color: #fff;
+  
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+h1
+{
+    text-align: center;
+    color:rgb(125, 6, 155);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
